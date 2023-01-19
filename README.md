@@ -9,8 +9,9 @@ This repo contains files needed to "Hackintosh" your Lenovo T490, model number 2
 + OpenCore:  0.8.5
 ### Hardware 
 
-| CPU      | Intel Core i5-8265U              |
+| Name     | Model                            |
 | -------- | -------------------------------- |
+| CPU      | Intel Core i5-8265U              |
 | GPU      | Intel UHD Graphics 620           |
 | RAM      | 8GB RAM DDR4 2400 Mhz            |
 | SSD      | 512GB SAMSUNG MZVLB512HBJQ-000L7 |
