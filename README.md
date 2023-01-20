@@ -42,7 +42,7 @@ This repo contains files needed to "Hackintosh" your Lenovo T490, model number 2
 
 + Read carefully the [OpenCore documentation](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites).
 
-+ Download the latest release of [EFI folder] and copy it to the EFI folder of your USB drive.
++ Download the latest release of [EFI folder](https://github.com/betty2310/thinkmac/releases/tag/v1.0.0) and copy it to the EFI folder of your USB drive.
 
 + Change `MLB`, `SystemSerialNumber`, `SystemUUID`, etc in `config.plist` to your own values. You can generate them using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS/tree/8ecef0485c9e0e540b709f2573ae0ff2b7a250a2).
 
